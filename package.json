@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "axios": "^0.26.1",
+    "gh-pages": "^3.2.3",
     "pinia": "^2.0.13",
     "vue": "^3.2.31"
   },
